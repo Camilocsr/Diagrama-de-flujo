@@ -1,0 +1,14 @@
+Inicio
+1. saludar al usuario por consola.
+2. pedir su nombre por consola.
+3. pedir numero de cuentas bancarias a sumar.
+3. sumar el valor de todas las cuntas bancarias con un siclo.
+4. mostrar un mensaje por consola que diga "El se or <nomre de la persona> tiene un valor de <sumatoria de las cuentas bancarias> en sus cuentas bancarias".
+5. Dar las gracias al usuario por utilizar nuestr porograma.
+
+
+
+Enlase de diagrama de flujo::::
+
+
+https://lucid.app/lucidchart/3f1a618f-1ba3-4127-9191-e0fb498f3746/edit?viewport_loc=-49%2C11%2C1480%2C681%2C0_0&invitationId=inv_2b5733bc-c9b4-49e6-bb29-2bbdcd28108b
